@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1591147030898,
+  "timestamp": 1591148922386,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,6 +8,11 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/models/ssd_mobilenetv1_model-shard1",
+        "/assets/models/ssd_mobilenetv1_model-shard2",
+        "/assets/models/ssd_mobilenetv1_model-weights_manifest.json",
+        "/assets/models/tiny_face_detector_model-shard1",
+        "/assets/models/tiny_face_detector_model-weights_manifest.json",
         "/favicon.ico",
         "/index.html",
         "/main-es2015.12cccb4d99e045c478bc.js",
@@ -34,12 +39,7 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png",
-        "/assets/models/ssd_mobilenetv1_model-shard1",
-        "/assets/models/ssd_mobilenetv1_model-shard2",
-        "/assets/models/ssd_mobilenetv1_model-weights_manifest.json",
-        "/assets/models/tiny_face_detector_model-shard1",
-        "/assets/models/tiny_face_detector_model-weights_manifest.json"
+        "/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
